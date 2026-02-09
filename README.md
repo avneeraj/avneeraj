@@ -1,40 +1,37 @@
-## Hi there 👋 I'm Avneeraj
+## 👋 Hey, I'm Avneeraj
 
-🛡️ **Cybersecurity Certified | SOC Analyst (Trainee)**  
-🔍 Passionate about threat detection, incident response, and security monitoring.
+🛡️ **Cybersecurity Certified | Aspiring SOC Analyst**
 
-### 👨‍💻 About Me
-- 🎓 Cybersecurity certified with hands-on security fundamentals  
-- 📘 Currently studying **SOC Analyst** concepts  
-- 🧠 Interested in Blue Team operations & real-world attack detection  
-- 🛠️ Strong focus on log analysis, alerts, and security tools  
+I’m focused on **detecting threats, analyzing alerts, and understanding attacker behavior** from a Blue Team perspective.
 
-### 🔐 Skills & Tools
-- SIEM basics (Log analysis, Alerts, Correlation)
-- Incident Response fundamentals
-- Network Security & Traffic Analysis
-- Linux & Windows security basics
-- MITRE ATT&CK Framework
-- Threat Hunting (Beginner)
-- Git & GitHub
+### 🔍 What I Do
+- Monitor & analyze security events
+- Study real-world cyber attacks
+- Build small security tools & labs
+- Learn SOC operations step by step
 
-### 🧪 Projects
-- 🔎 Homoglyph Detector & Generator (Security Research)
-- 🧠 SOC Analyst practice labs & mini projects
-- 🚧 More security projects coming soon…
+### 🧰 Technical Stack
+- SIEM (Basics)
+- Log Analysis
+- Network Security
+- Linux | Windows
+- MITRE ATT&CK
+- GitHub
 
-### 📚 Currently Learning
-- SOC workflows & escalation process  
-- SIEM tools (Splunk / ELK – concepts)
-- Detection engineering basics  
+### 🚀 Projects
+- Homoglyph Detector & Generator  
+- SOC practice labs (in progress)
 
-### 🤝 Open To
-- SOC Analyst Internships / Entry-Level Roles  
-- Blue Team collaborations  
-- Learning-focused security projects  
+### 📖 Currently Learning
+- Incident Response
+- Threat Hunting
+- Security Monitoring
 
-### 📫 Reach Me
-- GitHub: https://github.com/avneeraj
+### 🤝 Looking For
+- Entry-level SOC opportunities  
+- Blue Team learning collaborations  
+
+📫 **Let’s connect:**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-a-v-70752b376)
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avneeraj23@gmail.com)
 - [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avneeraj)
