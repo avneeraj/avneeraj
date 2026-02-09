@@ -35,5 +35,7 @@
 
 ### 📫 Reach Me
 - GitHub: https://github.com/avneeraj
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-a-v-70752b376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avneeraj23@gmail.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/neeraj-a-v-70752b376)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-a-v-70752b376)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avneeraj23@gmail.com)
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avneeraj)
 
